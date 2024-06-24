@@ -1,5 +1,5 @@
 {
-    "description": "topu-sessions",
+    "description": "mwtu-sessions",
     "main": "./toputech.js",
   "engines" : { 
     "npm" : ">=9.7.2",
@@ -8,7 +8,7 @@
     "scripts": {
     "start": "node toputech.js"
   },
-  "author": "Topu Tech",
+  "author": "mwtu Tech",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
